@@ -2,7 +2,6 @@
 ![](/docs/assets/images/Logo.png)
 # TrueTrace:
 [Github](https://github.com/Pjbomb2/TrueTrace-Pathtracer)
-</br>
 [Asset Store](INVALID)
 ![](/docs/assets/images/TrueTrace.png)
 # Embergen VDB Loader:
