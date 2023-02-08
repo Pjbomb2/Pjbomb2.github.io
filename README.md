@@ -1,6 +1,6 @@
 # Hello! And welcome to my small page!
 
-<img src=/docs/assets/images/Logo.png width="400">
+<img src="docs/assets/images/Logo.png" width="400">
 
 ## This is a small showcase of what I have done, and what is publicly available to others
 ### First off, the main event: TrueTrace, my realtime unity compute shader pathtracer! 
@@ -15,7 +15,10 @@
 </ul>
 [Github](https://github.com/Pjbomb2/TrueTrace-Pathtracer)
 <br>
-[Asset Store](INVALID)
+[Asset Store](TempLink)
+<br>
+
+### Sample Renders:
 <img src=/docs/assets/images/TrueTrace.png width="400">
 # Embergen VDB Loader:
 [Github](https://github.com/Pjbomb2/Unofficial-Basic-Embergen-VDB-Loader-for-Unity)
